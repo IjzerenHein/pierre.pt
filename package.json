@@ -33,6 +33,7 @@
     "expose-loader": "^0.5.3",
     "famous": "^0.3.0",
     "famous-bkimagesurface": "^1.0.1",
+    "famous-flex": "0.0.9",
     "famous-polyfills": "^0.2.2",
     "fastclick": "^1.0.3",
     "file-loader": "^0.6.1",
