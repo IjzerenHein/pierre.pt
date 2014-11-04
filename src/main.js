@@ -30,9 +30,9 @@ define(function(require) {
     var text = '';
     text += '<div><h1>PIERRE.PT</h1>';
     text += '<p>Bedankt voor je interesse in Pierre Tromp en PT Sportsolutions.</p>';
-    text += '<p>Voor Personal Training, hardlooptrainingen en bootcamptrainingen in en om Maas en Waal kun je contact met me opnemen via: <a href="http://www.facebook.com/pierre.tromp">facebook/pierre.tromp</a></p>';
+    text += '<p>Voor Personal Training, hardlooptrainingen en bootcamptrainingen in en om Maas en Waal kun je contact opnemen via: <a href="http://www.facebook.com/pierre.tromp">facebook/pierre.tromp</a></p>';
     text += '<p>Binnenkort kun je meer informatie verwachten op deze site.</p>';
-    text += '<p>fijne dag verder,<br>Pierre Tromp</p></div>';
+    text += '<p>Fijne dag verder,<br>Pierre Tromp</p></div>';
     var overlay = new Surface({
         classes: ['overlay'],
         content: text
